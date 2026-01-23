@@ -10,8 +10,9 @@ To run this project on your local machine, follow these steps:
 
 ```bash
 npm install
-
+```
 To start the development server, run:
 
 ```bash
 npm run dev
+```

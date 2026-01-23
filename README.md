@@ -1,5 +1,5 @@
-# movie-app
-An emulation of JS Mastery's online video walkthroughs for web app development.
+# react-streaming-app
+An emulation of JS Mastery's online video walkthrough for a react web app development project.
 
 ## Running Locally
 
